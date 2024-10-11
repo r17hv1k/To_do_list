@@ -7,7 +7,6 @@ A simple and intuitive web application for managing daily tasks. This to-do list
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -24,11 +23,6 @@ A simple and intuitive web application for managing daily tasks. This to-do list
 - **Delete completed tasks:** Quickly remove all completed tasks in one go.
 - **Delete all tasks:** Clear the entire task list with a single click.
 
-
-
-## Demo
-
-You can see a live demo of the project [here](https://rrr-to-do-list.netlify.app/).
 
 
 ## Technologies Used
