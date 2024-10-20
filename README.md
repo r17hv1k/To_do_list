@@ -8,7 +8,6 @@ A simple and intuitive web application for managing daily tasks. This to-do list
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -32,28 +31,6 @@ A simple and intuitive web application for managing daily tasks. This to-do list
 - **JavaScript** – To manage dynamic features like adding, editing, and deleting tasks.
 - **LocalStorage** – Used to store tasks locally in the browser so that data persists across sessions.
 
-
-
-## Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/r17hv1k/To_do_list.git
-```
-
-```bash
-cd To_do_list
-```
-
-### 2. Open the project
-
-You can open the project in your web browser by opening the ```index.html``` file.
-
-```bash
-open index.html
-```
-The app will run in the browser, and you can start adding tasks immediately.
 
 
 ## Usage
