@@ -1,6 +1,7 @@
 
 # TO-DO List
 
+#### Note: This is my first project in HTML, CSS, JavaScript.
 A simple and intuitive web application for managing daily tasks. This to-do list app allows users to add, prioritize, and manage tasks efficiently. It provides features like adding new tasks, marking tasks as completed or uncompleted, editing tasks, and deleting tasks based on various criteria.
 
 
